@@ -1,2 +1,2 @@
 # FinalYearProject
-Stacking Fault Energy prediction using Machine Learning
+Stacking Fault Energy prediction of NiFe alloy using deep learning. 
